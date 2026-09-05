@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gym shark  QORA| UZUMDAGI TAVAR",
+      "description": "M,L,XL,XXL",
+      "category": "erkaklar_kiyimlari",
+      "purchase_price": 25000,
+      "selling_price": 70000,
+      "stock_quantity": 10,
+      "image_url": "/uploads/products/1788597612611.png",
+      "is_active": 1,
+      "created_at": "2026-09-05 13:40:12",
+      "updated_at": "2026-09-05 13:40:12"
+    },
+    {
+      "id": 2,
+      "name": "Gym Shark OQ| UZUMDAGI TAVAR ",
+      "description": "M,L,XL,XXL",
+      "category": "erkaklar_kiyimlari",
+      "purchase_price": 25000,
+      "selling_price": 70000,
+      "stock_quantity": 10,
+      "image_url": "/uploads/products/1788597652302.png",
+      "is_active": 1,
+      "created_at": "2026-09-05 13:40:52",
+      "updated_at": "2026-09-05 13:40:52"
+    },
+    {
+      "id": 3,
+      "name": "Batman QORA  | UZUMDAGI  TAVAR  ",
+      "description": "M,L,XL,XXL",
+      "category": "erkaklar_kiyimlari",
+      "purchase_price": 25000,
+      "selling_price": 70000,
+      "stock_quantity": 10,
+      "image_url": "/uploads/products/1788597690595.png",
+      "is_active": 1,
+      "created_at": "2026-09-05 13:41:30",
+      "updated_at": "2026-09-05 13:41:30"
+    },
+    {
+      "id": 4,
+      "name": "Batman OQ| UZUMDAGI TAVAR",
+      "description": "M,L,XL,XXL",
+      "category": "erkaklar_kiyimlari",
+      "purchase_price": 25000,
+      "selling_price": 70000,
+      "stock_quantity": 10,
+      "image_url": "/uploads/products/1788597716745.png",
+      "is_active": 1,
+      "created_at": "2026-09-05 13:41:56",
+      "updated_at": "2026-09-05 13:41:56"
+    }
+  ],
+  "orders": [],
+  "expenses": [
+    {
+      "id": 1,
+      "category": "boshqa",
+      "description": "Kompyuter",
+      "amount": 7429000,
+      "receipt_image": "/uploads/receipts/1788596737070.jpg",
+      "location": "Sardobadan ofisga  kompyuter olishga ",
+      "expense_date": "2026-09-04",
+      "created_at": "2026-09-05 13:25:37"
+    },
+    {
+      "id": 2,
+      "category": "boshqa",
+      "description": "Ofisdagi maydachuydalar| Rakvina,Wifi,Gilam",
+      "amount": 1200000,
+      "receipt_image": null,
+      "location": "Ofisda qolgan narsalarni Isomiddindan",
+      "expense_date": "2026-09-03",
+      "created_at": "2026-09-05 13:27:57"
+    },
+    {
+      "id": 3,
+      "category": "boshqa",
+      "description": "Kompyuterga Router wifi ga ulanadigan ",
+      "amount": 50000,
+      "receipt_image": null,
+      "location": "Isfarxon Oqtepa lavash  ",
+      "expense_date": "2026-09-04",
+      "created_at": "2026-09-05 13:28:41"
+    },
+    {
+      "id": 4,
+      "category": "boshqa",
+      "description": "Nalichidagi kiyimga pul  olingan  ",
+      "amount": 2000000,
+      "receipt_image": "/uploads/receipts/1788597082114.jpg",
+      "location": "Saydillo okadan tavarga pul olingan ",
+      "expense_date": "2026-08-28",
+      "created_at": "2026-09-05 13:31:22"
+    }
+  ],
+  "goals": []
+}
